@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Welcome to LinuxTeck
 
-<!--
-**linuxteck/linuxteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A complete Linux learning hub
 
-Here are some ideas to get you started:
+We share:
+- 🐧 Linux tutorials  
+- ⚡ Modern CLI tools  
+- 🛠 Sysadmin guides  
+- 🚀 DevOps tips  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Popular Guides
+
+- ⚡ Modern Linux Tools → https://github.com/linuxteck/modern-linux-tools  
+- 🔐 Linux Security Tools → https://github.com/linuxteck/top-linux-security-tools  
+- 📦 Server Backup Solutions → https://github.com/linuxteck/linux-server-backup-solutions-2026  
+
+---
+
+## 🌐 Website
+
+👉 https://www.linuxteck.com  
+
+---
+
+## 📢 Follow LinuxTeck
+
+⭐ Star repos if useful  
+👤 Follow for weekly Linux guides  
+
+---
+
+💡 40+ practical Linux guides available
