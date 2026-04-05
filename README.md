@@ -7,6 +7,7 @@ We share:
 - ⚡ Modern CLI tools  
 - 🛠 Sysadmin guides  
 - 🚀 DevOps tips  
+- 📰 Linux & tech news   
 
 ---
 
